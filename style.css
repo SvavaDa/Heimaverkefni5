@@ -1,0 +1,53 @@
+.logo {
+  border-radius: 100px;
+  width: 100px;
+}
+
+header {
+  background-color: green;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.body {
+  margin: auto;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.header-left {
+  display: flex;
+  gap: 20px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 10;
+}
+
+footer {
+  background-color: rgb(58, 109, 109);
+  padding: 20px;
+}
+
+.footertext {
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+  background-color: bisque;
+}
+.listar {
+  display: flex;
+  justify-content: space-around;
+}
+
+section {
+  margin: 10px;
+  background-color: rgb(173, 173, 216);
+}
